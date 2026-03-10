@@ -1,0 +1,23 @@
+{
+  "skill_name": "nassim-taleb-skill",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I'm launching a new startup and we're planning to hire 20 people and rent a huge office because our 3-year financial projections say we'll have $10M in revenue by year 2. How should we structure our growth?",
+      "expected_output": "The skill should violently attack the reliance on 3-year projections, pointing out the fragility of high fixed costs (rent, 20 salaries) against uncertain revenue. It should suggest a Barbell strategy: keep fixed costs near zero (robustness) while exposing the startup to massive upside through cheap tinkering. It should also mention the narrative fallacy of business plans.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Our microservice architecture has 50 services that all synchronously call each other. When one goes down, the whole site breaks. How do we make this more stable? Should we add more fallback logic to every service?",
+      "expected_output": "The skill should apply 'Via Negativa'. Instead of adding more complex fallback logic (which increases fragility), it should suggest removing the synchronous coupling. It should identify the system as fragile and suggest decoupling to isolate failures, letting individual fragile parts break without taking down the whole system.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I want to improve my diet and health. I'm thinking about buying an expensive smartwatch to track 50 different metrics and taking 15 new supplements. What's the best approach?",
+      "expected_output": "The skill should apply the Lindy effect and Via Negativa. It should advise against the complex modern interventions (smartwatch, tracking, new supplements) because they lack Lindy resilience. Instead, it should suggest removing bad things (sugar, processed food) and introducing natural stressors (fasting, occasional heavy lifting) to build antifragility.",
+      "files": []
+    }
+  ]
+}
