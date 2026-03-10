@@ -43,7 +43,7 @@ Simply ask for a Talebian analysis, or mention concepts like "Antifragility," "B
 
 # Habilidad de Nassim Taleb (Español)
 
-Una habilidad (skill) para Claude Code que aplica los principios, marcos de toma de decisiones, heurísticas y filosofía de Nassim Nicholas Taleb para resolver problemas y analizar riesgos.
+Una habilidad (skill) para Claude Code/Antigravity que aplica los principios, marcos de toma de decisiones, heurísticas y filosofía de Nassim Nicholas Taleb para resolver problemas y analizar riesgos.
 
 Creado por [@thejuansuero](https://x.com/thejuansuero) | [veltastech.com](https://veltastech.com)
 
