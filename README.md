@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A Claude Code skill that applies Nassim Nicholas Taleb's principles, decision-making frameworks, heuristics, and philosophy to solve problems and analyze risk.
+A Claude Code/Antigravity skill that applies Nassim Nicholas Taleb's principles, decision-making frameworks, heuristics, and philosophy to solve problems and analyze risk.
 
 Created by [@thejuansuero](https://x.com/thejuansuero) | [veltastech.com](https://veltastech.com)
 
